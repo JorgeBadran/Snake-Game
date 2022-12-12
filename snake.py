@@ -178,6 +178,7 @@ while True:
 
     mov()
     time.sleep(postpone)
+    turtle.done
 
 
    
